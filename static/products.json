@@ -109,6 +109,14 @@
             "description": "High-quality tail light for Pajero SFX/GLX."
         },
         {
+            "name": "Pajero SFX/GLX Door handel",
+            "image": [
+                "../static/product images/door-handle-chrome-pajero-sfx-model.jpg",
+                "../static/product images/51c8IUUkBiL.jpg"
+            ],
+            "description": "High-quality tail light for Pajero SFX/GLX."
+        },
+        {
             "name": "Pajero SFX/GLX Tail Light",
             "image": "../static/product images/GLX Tail Light.jpg",
             "description": "High-quality tail light for Pajero SFX/GLX."
