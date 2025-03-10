@@ -693,7 +693,7 @@ footer {
         width: 90%;
         display: flex;
         flex-wrap: wrap;
-        gap: 10px;
+        gap: 1px;
         justify-content: space-around;
     }
 
@@ -714,7 +714,7 @@ footer {
         line-height: 14px;
         height: 40px;
         margin: 5px 0;
-        font-size: 12px;
+        font-size: 7px;
         padding: 0 5px;
 
     }
