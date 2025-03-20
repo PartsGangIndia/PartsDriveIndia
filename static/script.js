@@ -56,7 +56,7 @@ muteBtn.addEventListener('click', () => {
 // Start the video cycle if not on iPhone
 if (!isIphone) {
     showVideo(currentIndex);
-    setInterval(nextVideo, 10000);
+    setInterval(nextVideo, 15000);
 } else {
     showVideo(currentIndex); // No autoplay loop on iPhones
 }
